@@ -1,7 +1,7 @@
 {
   "name": "cmbot",
   "description": "A full featured bot for turntable.fm",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "keywords": ["turntable.fm", "turntable", "stickybits"],
   "repository": {
     "type": "git",
@@ -31,7 +31,7 @@
   },
   "devDependencies": {},
   "optionalDependencies": {
-	"mysql": "0.9.*",
+	"mysql": ">= 2.0.0",
     "sqlite3": "*"
   }
 }
